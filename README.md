@@ -1,2 +1,2 @@
 # BayesianLearning
-Bayesian approach to dIfferent models
+This repo contains different bayesian versions of frequentist models.
